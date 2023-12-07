@@ -70,3 +70,10 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+#Gems added by me
+gem "activesupport"
+gem "bcrypt"
+gem "http"
+gem "rack-cors"
+
